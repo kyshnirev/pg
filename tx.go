@@ -6,9 +6,9 @@ import (
 	"io"
 	"sync"
 
-	"github.com/go-pg/pg/internal"
-	"github.com/go-pg/pg/internal/pool"
-	"github.com/go-pg/pg/orm"
+	"github.com/kyshnirev/pg/internal"
+	"github.com/kyshnirev/pg/internal/pool"
+	"github.com/kyshnirev/pg/orm"
 )
 
 var errTxDone = errors.New("pg: transaction has already been committed or rolled back")

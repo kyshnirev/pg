@@ -6,7 +6,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/go-pg/pg/urlvalues"
+	"github.com/kyshnirev/pg/urlvalues"
 )
 
 type Filter struct {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/go-pg/pg/orm"
+	"github.com/kyshnirev/pg/orm"
 )
 
 type dummyFormatter struct{}

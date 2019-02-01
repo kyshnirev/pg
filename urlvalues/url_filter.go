@@ -3,10 +3,10 @@ package urlvalues
 import (
 	"strings"
 
-	"github.com/go-pg/pg"
-	"github.com/go-pg/pg/internal"
-	"github.com/go-pg/pg/orm"
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg"
+	"github.com/kyshnirev/pg/internal"
+	"github.com/kyshnirev/pg/orm"
+	"github.com/kyshnirev/pg/types"
 )
 
 // URLFilter is used with Query.Apply to add WHERE clauses from the URL values:

@@ -3,7 +3,7 @@ package orm
 import (
 	"fmt"
 
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg/types"
 )
 
 const (

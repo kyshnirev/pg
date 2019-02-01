@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-pg/pg/internal"
-	"github.com/go-pg/pg/internal/iszero"
-	"github.com/go-pg/pg/internal/tag"
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg/internal"
+	"github.com/kyshnirev/pg/internal/iszero"
+	"github.com/kyshnirev/pg/internal/tag"
+	"github.com/kyshnirev/pg/types"
 )
 
 const (

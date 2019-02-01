@@ -3,8 +3,8 @@ package orm
 import (
 	"reflect"
 
-	"github.com/go-pg/pg/internal/iszero"
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg/internal/iszero"
+	"github.com/kyshnirev/pg/types"
 )
 
 const (

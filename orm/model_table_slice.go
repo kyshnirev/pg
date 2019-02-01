@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg/types"
 )
 
 type sliceTableModel struct {

@@ -9,11 +9,11 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/go-pg/pg/internal"
-	"github.com/go-pg/pg/internal/pool"
+	"github.com/kyshnirev/pg/internal"
+	"github.com/kyshnirev/pg/internal/pool"
 	"github.com/mellium/sasl"
-	"github.com/go-pg/pg/orm"
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg/orm"
+	"github.com/kyshnirev/pg/types"
 )
 
 const (

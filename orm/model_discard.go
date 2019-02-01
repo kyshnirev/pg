@@ -1,7 +1,7 @@
 package orm
 
 import (
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg/types"
 )
 
 type Discard struct {

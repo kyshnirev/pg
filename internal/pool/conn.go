@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-pg/pg/internal"
+	"github.com/kyshnirev/pg/internal"
 )
 
 var noDeadline = time.Time{}

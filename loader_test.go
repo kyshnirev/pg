@@ -3,9 +3,9 @@ package pg_test
 import (
 	"errors"
 
-	"github.com/go-pg/pg"
-	"github.com/go-pg/pg/orm"
-	"github.com/go-pg/pg/types"
+	"github.com/kyshnirev/pg"
+	"github.com/kyshnirev/pg/orm"
+	"github.com/kyshnirev/pg/types"
 
 	. "gopkg.in/check.v1"
 )
