@@ -20,6 +20,6 @@ before_install:
 install:
   - go get github.com/jinzhu/inflection
   - go get gopkg.in/check.v1
+  - go get github.com/mellium/sasl
   - go get github.com/onsi/ginkgo
   - go get github.com/onsi/gomega
-  - go get mellium.im/sasl
