@@ -11,7 +11,7 @@ import (
 
 	"github.com/kyshnirev/pg/internal"
 	"github.com/kyshnirev/pg/internal/pool"
-	"github.com/mellium/sasl"
+	"github.com/kyshnirev/sasl"
 	"github.com/kyshnirev/pg/orm"
 	"github.com/kyshnirev/pg/types"
 )
